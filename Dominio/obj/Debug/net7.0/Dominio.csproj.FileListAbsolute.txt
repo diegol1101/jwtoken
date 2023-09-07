@@ -1,0 +1,12 @@
+C:\jwtoken\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\jwtoken\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\jwtoken\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\jwtoken\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\jwtoken\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\jwtoken\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\jwtoken\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\jwtoken\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\jwtoken\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\jwtoken\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\jwtoken\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\jwtoken\Dominio\obj\Debug\net7.0\ref\Dominio.dll

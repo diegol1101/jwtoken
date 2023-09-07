@@ -1,0 +1,17 @@
+C:\jwtoken\Aplicacion\bin\Debug\net7.0\Aplicacion.deps.json
+C:\jwtoken\Aplicacion\bin\Debug\net7.0\Aplicacion.dll
+C:\jwtoken\Aplicacion\bin\Debug\net7.0\Aplicacion.pdb
+C:\jwtoken\Aplicacion\bin\Debug\net7.0\Dominio.dll
+C:\jwtoken\Aplicacion\bin\Debug\net7.0\Persistencia.dll
+C:\jwtoken\Aplicacion\bin\Debug\net7.0\Dominio.pdb
+C:\jwtoken\Aplicacion\bin\Debug\net7.0\Persistencia.pdb
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.AssemblyReference.cache
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfoInputs.cache
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfo.cs
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CopyComplete
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.dll
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\refint\Aplicacion.dll
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\Aplicacion.pdb
+C:\jwtoken\Aplicacion\obj\Debug\net7.0\ref\Aplicacion.dll

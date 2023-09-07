@@ -1,0 +1,15 @@
+C:\jwtoken\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\jwtoken\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\jwtoken\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\jwtoken\Persistencia\bin\Debug\net7.0\Dominio.dll
+C:\jwtoken\Persistencia\bin\Debug\net7.0\Dominio.pdb
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\jwtoken\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\jwtoken\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+C:\jwtoken\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
