@@ -5221,11 +5221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\jwtoken\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\jwtoken\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "c:\\jwtoken\\Persistencia\\Persistencia.csproj",
+      "projectPath": "C:\\jwtoken\\Persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-      "outputPath": "c:\\jwtoken\\Persistencia\\obj\\",
+      "outputPath": "C:\\jwtoken\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"

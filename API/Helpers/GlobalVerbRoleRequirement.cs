@@ -13,11 +13,11 @@ namespace API.Helpers;
         {
             if(string.Equals("Administrador",role,StringComparison.OrdinalIgnoreCase))return true;
             if(string.Equals("Gerente",role,StringComparison.OrdinalIgnoreCase))return true;
-            if(string.Equals("empleado",role,StringComparison.OrdinalIgnoreCase) && String.Equals("GET",verb,StringComparison.OrdinalIgnoreCase))
+            if(string.Equals("Empleado",role,StringComparison.OrdinalIgnoreCase) && String.Equals("GET",verb,StringComparison.OrdinalIgnoreCase))
             {
                 return true;
             };
-            if(string.Equals("camper",role,StringComparison.OrdinalIgnoreCase) && String.Equals("GET",verb,StringComparison.OrdinalIgnoreCase))
+            if(string.Equals("Camper",role,StringComparison.OrdinalIgnoreCase) && String.Equals("GET",verb,StringComparison.OrdinalIgnoreCase))
             {
                 return true;
             };

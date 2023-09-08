@@ -28,8 +28,8 @@ namespace API.Extensions;
                 //Services.AddScoped<ITipoPersona,TipoPeronsaRepository>();
                 
                 services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();
-                services.AddScoped<IUserService, UserService>();
                 services.AddScoped<IUnitOfWork, UnitOfWork>();
+                services.AddScoped<IUserService, UserService>();
                 services.AddScoped<IAuthorizationHandler, GlobalVerbRoleHandler>();
             }
 

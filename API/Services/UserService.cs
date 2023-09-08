@@ -145,7 +145,7 @@ namespace API.Services;
             var roleClaims = new List<Claim>();
             foreach (var role in Rols)
             {
-                roleClaims.Add(new Claim("Rols", role.Nombre));
+                roleClaims.Add(new Claim("roles", role.Nombre));
             }
 
             var claims = new[]

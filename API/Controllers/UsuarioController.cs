@@ -29,7 +29,7 @@ namespace API.Controllers;
 
         }
 
-        [HttpPost("adrole")]
+        [HttpPost("addrole")]
         public async Task<IActionResult> AddRoleAsync(AddRoleDto model)
         {
             var result = await _userService.AddRoleAsync(model);
