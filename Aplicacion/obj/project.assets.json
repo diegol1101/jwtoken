@@ -5240,11 +5240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
+      "projectPath": "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-      "outputPath": "c:\\jwtoken\\Aplicacion\\obj\\",
+      "outputPath": "C:\\jwtoken\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5259,11 +5259,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\jwtoken\\Dominio\\Dominio.csproj": {
-              "projectPath": "c:\\jwtoken\\Dominio\\Dominio.csproj"
+            "C:\\jwtoken\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\jwtoken\\Dominio\\Dominio.csproj"
             },
-            "c:\\jwtoken\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "c:\\jwtoken\\Persistencia\\Persistencia.csproj"
+            "C:\\jwtoken\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\jwtoken\\Persistencia\\Persistencia.csproj"
             }
           }
         }

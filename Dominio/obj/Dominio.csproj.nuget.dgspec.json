@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\jwtoken\\Dominio\\Dominio.csproj": {}
+    "C:\\jwtoken\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "c:\\jwtoken\\Dominio\\Dominio.csproj": {
+    "C:\\jwtoken\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\jwtoken\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\jwtoken\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\jwtoken\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\jwtoken\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "c:\\jwtoken\\Dominio\\obj\\",
+        "outputPath": "C:\\jwtoken\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"

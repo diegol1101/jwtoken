@@ -6020,11 +6020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\jwtoken\\API\\API.csproj",
+      "projectUniqueName": "C:\\jwtoken\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\jwtoken\\API\\API.csproj",
+      "projectPath": "C:\\jwtoken\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-      "outputPath": "c:\\jwtoken\\API\\obj\\",
+      "outputPath": "C:\\jwtoken\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6039,8 +6039,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj"
+            "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5fgtJv6ibB6vpiIZ84I+oEvzjwpIyvYzU6o3GoHInDfO931EosJL5uRAZvK3Zm8bVCYVHOZL8yiDe8zvLnSmQ==",
+  "dgSpecHash": "lEeYDxOinZPDfSxc/sMU/8JxjL9iYT9B6wQpH7L7xmZigoMJCrVFbmrVIQpS0OLC/ILQCv8TWNk2JfKEEoIayw==",
   "success": true,
-  "projectFilePath": "c:\\jwtoken\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\jwtoken\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ddieg\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\ddieg\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

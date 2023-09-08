@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj": {}
+    "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "c:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "C:\\jwtoken\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "c:\\jwtoken\\Aplicacion\\obj\\",
+        "outputPath": "C:\\jwtoken\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\jwtoken\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\jwtoken\\Dominio\\Dominio.csproj"
+              "C:\\jwtoken\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\jwtoken\\Dominio\\Dominio.csproj"
               },
-              "c:\\jwtoken\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\jwtoken\\Persistencia\\Persistencia.csproj"
+              "C:\\jwtoken\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\jwtoken\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "c:\\jwtoken\\Dominio\\Dominio.csproj": {
+    "C:\\jwtoken\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\jwtoken\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\jwtoken\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\jwtoken\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\jwtoken\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "c:\\jwtoken\\Dominio\\obj\\",
+        "outputPath": "C:\\jwtoken\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -131,14 +131,14 @@
         }
       }
     },
-    "c:\\jwtoken\\Persistencia\\Persistencia.csproj": {
+    "C:\\jwtoken\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\jwtoken\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\jwtoken\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\jwtoken\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\jwtoken\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "c:\\jwtoken\\Persistencia\\obj\\",
+        "outputPath": "C:\\jwtoken\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -153,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\jwtoken\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\jwtoken\\Dominio\\Dominio.csproj"
+              "C:\\jwtoken\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\jwtoken\\Dominio\\Dominio.csproj"
               }
             }
           }

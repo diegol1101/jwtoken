@@ -5240,8 +5240,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\jwtoken\\Dominio\\Dominio.csproj": {
-              "projectPath": "c:\\jwtoken\\Dominio\\Dominio.csproj"
+            "C:\\jwtoken\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\jwtoken\\Dominio\\Dominio.csproj"
             }
           }
         }
